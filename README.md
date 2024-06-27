@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MassiCanosi
 - 👀 I’m passionate about Data Science, coding and videogames
-- 🌱 Currently, I'm immersed in the world of Python and SQL programming
+- 🌱 Currently, I'm immersed in the world of Python, C# and SQL programming
 - 💞️ I'm actively seeking collaboration opportunities on exciting projects.
 - 📫 How to reach me -> massimiliano.canosi@gmail.com
 

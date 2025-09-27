@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Massimiliano</h1>
 <h3 align="center">A passionate Data Scientist from Milano,Italy and based in Barcelona,Spain</h3>
 
-<img width="480" height="270" alt="Media-Markt-Symbol" src="https://github.com/user-attachments/assets/b21814de-2660-4d5b-89d4-3888c04f0535" />
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massicanosi&show_icons=true&locale=en&layout=compact" alt="massicanosi" /></p>
 
 - 🧑‍💻​ I’m currently working on ML Models, RAGs, Time Series Analysis, Web App Development and Data Visualization

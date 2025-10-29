@@ -3,7 +3,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massicanosi&show_icons=true&locale=en&layout=compact" alt="massicanosi" /></p>
 
-- 🧑‍💻​ I’m currently working on ML Models, RAGs, Time Series Analysis, Web App Development and Data Visualization
+- 🧑‍💻​ I’m currently working on Naural Netowrks, Recommendation Systems, ML Models, Data Engineering, RAGs, Time Series Analysis.
 
 - 🔭 In my free time i'm currently working on **a Indie videogame project in Unity**
 

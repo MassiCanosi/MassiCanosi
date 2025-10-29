@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Massimiliano</h1>
 <h3 align="center">A passionate Data Scientist from Milano,Italy and based in Barcelona,Spain</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=massicanosi&show_icons=true&locale=en&layout=compact" alt="massicanosi" /></p>
-
 - 🧑‍💻​ I’m currently working on Neural Networks, Recommendation Systems, ML Models, Data Engineering, RAGs, Time Series Analysis.
 
 - 🔭 In my free time i'm currently working on **a Indie videogame project in Unity**
